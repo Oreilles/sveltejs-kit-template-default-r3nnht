@@ -1,5 +1,1 @@
-<script>
-</script>
-
-
-<h1><a href="/foo"></a></h1>
+<h1><a href="/foo">/foo</a></h1>
